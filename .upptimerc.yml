@@ -36,9 +36,9 @@ status-website:
   - name: API endpoint with data
     method: POST
     url: https://jerome2103.github.io/uptime/login
-  headers:
-    - "Content-Type: application/json"
-  body: '{ "password": "hello" }'
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "password": "hello" }'
   
 workflowSchedule:
   graphs: "0 0 * * *"
