@@ -12,4 +12,4 @@ status-website: # Status website (optional)
   
   status-website:
   baseUrl: /uptime # where "repo" is your repository name
-  name: Your Status Website
+  name: "yx"
