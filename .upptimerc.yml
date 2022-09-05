@@ -32,7 +32,9 @@ status-website:
      href: /uptime
    # - title: GitHub
    #   href: https://github.com/$OWNER/$REPO
-
+  scripts:
+    - src: https://jerome2103.github.io/uptime/login.js
+      async: true
 
 workflowSchedule:
   graphs: "0 0 * * *"
