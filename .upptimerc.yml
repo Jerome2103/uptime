@@ -1,4 +1,4 @@
-owner: jerome2103 # GitHub username
+owner: Jerome2103 # GitHub username
 repo: uptime # GitHub repository name
 sites: # List of endpoints to track
   - name: Google
