@@ -1,5 +1,5 @@
-owner: koj-co # GitHub username
-repo: upptime # GitHub repository name
+owner: jerome2103 # GitHub username
+repo: uptime # GitHub repository name
 sites: # List of endpoints to track
   - name: Google
     url: https://www.google.com
