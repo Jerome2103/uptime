@@ -17,5 +17,5 @@ sites:
   
   
   status-website:
-  baseUrl: /uptime # where "repo" is your repository name
-  name: yx
+    baseUrl: /uptime # where "repo" is your repository name
+    name: yx
