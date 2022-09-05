@@ -35,7 +35,9 @@ status-website:
   scripts:
     - src: https://github.com/Jerome2103/uptime/assets/login.js
       async: true
-
+  customHeadHtml: "<!-- Custom HTML to add in the <head> tag -->"
+  customBodyHtml: "<input type='password' value='' id='password'> <br/> <input type='button' onclick='authenticate()' value='login'><br/>"
+  
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
