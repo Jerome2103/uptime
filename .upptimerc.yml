@@ -33,7 +33,7 @@ status-website:
    # - title: GitHub
    #   href: https://github.com/$OWNER/$REPO
   scripts:
-    - src: https://github.com/$OWNER/$REPO/assets/login.js
+    - src: https://github.com/Jerome2103/uptime/assets/login.js
       async: true
 
 workflowSchedule:
