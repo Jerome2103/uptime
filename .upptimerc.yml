@@ -1,13 +1,23 @@
-owner: Jerome2103 # GitHub username
-repo: uptime # GitHub repository name
-sites: # List of endpoints to track
-  - name: Google
+owner: koj-co
+repo: upptime
+
+sites:
+  - name: POST to Google
     url: https://www.google.com
-assignees: # Users to assign downtime issues (optional)
-  - AnandChowdhary
-status-website: # Status website (optional)
-  cname: upptime.js.org # Custom domain CNAME
-  name: Upptime # Status website title
+    method: POST
+  - name: DELETE Example
+    url: https://example.com
+    method: DELETE
+
+sites:
+  - name: Google DNS 1
+    check: "tcp-ping"
+    url: 8.8.4.4
+    port: 53
+  - name: Google DNS 2
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
   
   
   status-website:
