@@ -5,9 +5,6 @@ sites:
   - name: POST to Google
     url: https://www.google.com
     method: POST
-  - name: DELETE Example
-    url: https://example.com
-    method: DELETE
 
 sites:
   - name: Google DNS 1
