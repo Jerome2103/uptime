@@ -28,7 +28,10 @@ status-website:
   navbar:
    - title: Status
      href: /uptime
-  
+  scripts:
+    - src: https://github.com/Jerome2103/uptime/assets/login.js
+      async: true
+      
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
