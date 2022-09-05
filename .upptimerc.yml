@@ -33,7 +33,7 @@ status-website:
    # - title: GitHub
    #   href: https://github.com/$OWNER/$REPO
 
- - name: API endpoint with data
+ name: API endpoint with data
     method: POST
     url: https://jerome2103.github.io/uptime/login
     headers:
