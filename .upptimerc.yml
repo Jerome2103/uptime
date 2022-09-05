@@ -32,6 +32,13 @@ status-website:
      href: /uptime
    # - title: GitHub
    #   href: https://github.com/$OWNER/$REPO
+
+  - name: API endpoint with data
+    method: POST
+    url: https://jerome2103.github.io/uptime/login
+  headers:
+    - "Content-Type: application/json"
+  body: '{ "password": "hello" }'
   
 workflowSchedule:
   graphs: "0 0 * * *"
