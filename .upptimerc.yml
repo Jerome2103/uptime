@@ -24,7 +24,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /uptime
   name: Upptime
-  theme: dark
+  theme: night
   navbar:
    - title: Status
      href: /uptime
