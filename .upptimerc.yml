@@ -33,10 +33,10 @@ status-website:
       async: true
       
 workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
+  graphs: "*/30 * * * *"
+  responseTime: "*/15 * * * *"
+  staticSite: "*/10 * * * *"
+  summary: "*/20 * * * *"
   updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
+  updates: "*/15 * * * *"
   uptime: "*/5 * * * *"
