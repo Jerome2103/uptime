@@ -11,8 +11,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 123,
-    "timeWeek": 145,
+    "timeDay": 122,
+    "timeWeek": 144,
     "timeMonth": 152,
     "timeYear": 153,
     "dailyMinutesDown": {
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 284,
-    "timeWeek": 290,
+    "timeDay": 297,
+    "timeWeek": 291,
     "timeMonth": 278,
     "timeYear": 278,
     "dailyMinutesDown": {}
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
-    "timeDay": 321,
-    "timeWeek": 323,
+    "timeDay": 308,
+    "timeWeek": 322,
     "timeMonth": 324,
     "timeYear": 313,
     "dailyMinutesDown": {}
@@ -60,19 +60,19 @@
     "url": "$BOOKS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "calibre",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 920,
-    "timeDay": 920,
-    "timeWeek": 920,
-    "timeMonth": 920,
-    "timeYear": 920,
+    "time": 1020,
+    "timeDay": 1020,
+    "timeWeek": 1020,
+    "timeMonth": 1020,
+    "timeYear": 1020,
     "dailyMinutesDown": {
-      "2022-11-02": 140
+      "2022-11-02": 152
     }
   },
   {
