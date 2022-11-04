@@ -1,7 +1,7 @@
 url: $BOOKS
-status: down
-code: 404
-responseTime: 719
-lastUpdated: 2022-11-04T11:52:21.529Z
+status: up
+code: 200
+responseTime: 742
+lastUpdated: 2022-11-04T11:58:32.211Z
 startTime: Wed Nov 02 2022 09:34:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
