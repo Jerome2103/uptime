@@ -9,8 +9,6 @@ sites:
     url: https://de.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Calibre
-    url: $BOOKS
   - name: CheckMK
     url: $CHECKMK
   - name: Google DNS 1
