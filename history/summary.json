@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 151,
+    "timeDay": 148,
     "timeWeek": 143,
     "timeMonth": 140,
     "timeYear": 142,
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 295,
-    "timeWeek": 332,
-    "timeMonth": 300,
+    "timeDay": 299,
+    "timeWeek": 333,
+    "timeMonth": 301,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2023-01-25": 21
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 310,
-    "timeDay": 317,
-    "timeWeek": 298,
-    "timeMonth": 299,
+    "timeDay": 318,
+    "timeWeek": 299,
+    "timeMonth": 300,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2023-02-07": 17,
@@ -65,18 +65,20 @@
     "url": "$CHECKMK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "check-mk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 836,
-    "timeDay": 1388,
+    "timeDay": 1400,
     "timeWeek": 918,
     "timeMonth": 847,
     "timeYear": 836,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-01": 2
+    }
   },
   {
     "name": "Google DNS 1",
