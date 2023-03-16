@@ -1,7 +1,7 @@
 url: $CHECKMK
 status: up
 code: 200
-responseTime: 646
-lastUpdated: 2023-03-16T03:21:24.135Z
+responseTime: 559
+lastUpdated: 2023-03-16T03:37:32.877Z
 startTime: Thu Nov 10 2022 14:18:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
