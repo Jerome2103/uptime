@@ -13,7 +13,7 @@
     "time": 142,
     "timeDay": 142,
     "timeWeek": 139,
-    "timeMonth": 142,
+    "timeMonth": 143,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2022-10-13": 24
@@ -33,7 +33,7 @@
     "time": 290,
     "timeDay": 227,
     "timeWeek": 239,
-    "timeMonth": 282,
+    "timeMonth": 283,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2023-01-25": 21
@@ -46,12 +46,12 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "96.65%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "80.69%",
     "uptimeYear": "98.38%",
     "time": 308,
-    "timeDay": 277,
+    "timeDay": 283,
     "timeWeek": 294,
     "timeMonth": 298,
     "timeYear": 308,
@@ -81,9 +81,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 837,
-    "timeDay": 885,
+    "timeDay": 884,
     "timeWeek": 836,
-    "timeMonth": 842,
+    "timeMonth": 865,
     "timeYear": 837,
     "dailyMinutesDown": {}
   },
