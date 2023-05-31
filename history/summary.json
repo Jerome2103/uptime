@@ -53,7 +53,7 @@
     "time": 311,
     "timeDay": 141,
     "timeWeek": 316,
-    "timeMonth": 325,
+    "timeMonth": 324,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2023-03-28": 35,
@@ -74,19 +74,19 @@
     "url": "$CHECKMK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "check-mk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 843,
-    "timeDay": 834,
-    "timeWeek": 777,
+    "timeDay": 771,
+    "timeWeek": 757,
     "timeMonth": 836,
     "timeYear": 843,
     "dailyMinutesDown": {
-      "2023-05-31": 26
+      "2023-05-31": 33
     }
   },
   {
