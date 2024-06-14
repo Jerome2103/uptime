@@ -1,7 +1,7 @@
 url: $CHECKMK
-status: down
-code: 503
-responseTime: 622
-lastUpdated: 2024-06-14T16:52:35.736Z
+status: up
+code: 200
+responseTime: 916
+lastUpdated: 2024-06-14T17:12:18.049Z
 startTime: 2022-11-10T14:18:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
