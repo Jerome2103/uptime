@@ -4,7 +4,7 @@
     "url": "$CHECKMK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "check-mk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "97.59%",
     "uptimeWeek": "99.66%",
