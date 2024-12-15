@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 992,
-    "timeDay": 1022,
-    "timeWeek": 719,
-    "timeMonth": 746,
+    "time": 991,
+    "timeDay": 526,
+    "timeWeek": 726,
+    "timeMonth": 744,
     "timeYear": 920,
     "dailyMinutesDown": {
       "2024-08-21": 37,
@@ -37,15 +37,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.72%",
     "time": 4,
-    "timeDay": 2,
-    "timeWeek": 3,
+    "timeDay": 6,
+    "timeWeek": 4,
     "timeMonth": 3,
     "timeYear": 3,
-    "dailyMinutesDown": {
-      "2023-12-16": 82
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google DNS 2",
@@ -57,14 +55,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.72%",
     "time": 4,
-    "timeDay": 2,
-    "timeWeek": 4,
+    "timeDay": 5,
+    "timeWeek": 5,
     "timeMonth": 4,
     "timeYear": 4,
-    "dailyMinutesDown": {
-      "2023-12-16": 82
-    }
+    "dailyMinutesDown": {}
   }
 ]
