@@ -4,19 +4,19 @@
     "url": "$CHECKMK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "check-mk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 908,
-    "timeDay": 928,
-    "timeWeek": 823,
-    "timeMonth": 788,
+    "time": 909,
+    "timeDay": 913,
+    "timeWeek": 833,
+    "timeMonth": 791,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2025-08-31": 0
+      "2025-08-31": 22
     }
   },
   {
