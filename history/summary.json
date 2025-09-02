@@ -6,15 +6,15 @@
     "slug": "check-mk",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.48%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 910,
-    "timeDay": 973,
-    "timeWeek": 850,
-    "timeMonth": 786,
-    "timeYear": 885,
+    "timeDay": 967,
+    "timeWeek": 856,
+    "timeMonth": 798,
+    "timeYear": 886,
     "dailyMinutesDown": {
       "2025-08-31": 22
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3,
-    "timeDay": 2,
+    "timeDay": 14,
     "timeWeek": 4,
-    "timeMonth": 4,
-    "timeYear": 3,
+    "timeMonth": 5,
+    "timeYear": 4,
     "dailyMinutesDown": {}
   },
   {
@@ -49,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 2,
+    "timeDay": 14,
     "timeWeek": 4,
     "timeMonth": 5,
     "timeYear": 4,
